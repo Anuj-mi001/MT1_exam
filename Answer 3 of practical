@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class Timetable (semester 1)</title>
+</head>
+<body>
+
+    <table border="1" cellspacing="0" cellpadding="5">
+        <caption>Class Timetable (semester 1)</caption>
+
+        <tr>
+            <th>Day</th>
+            <th>9:00 - 10:00</th>
+            <th>10:00 - 11:00</th>
+            <th>11:00 - 12:00</th>
+            <th>12:00 - 1:00</th>
+        </tr>
+        <tr>
+            <th>Monday</th>
+            <td>HTML</td>
+            <td>Maths</td>
+            <td>Programing language</td>
+            <td rowspan = "5">Lunch break</td>
+        </tr>
+
+        <tr>
+            <th>Tuesday</th>
+            <td>Maths</td>
+            <td>HTML</td>
+            <td>English</td>
+        </tr>
+
+        <tr>
+            <th>Wednesday</th>
+            <td>Programming</td>
+            <td>English</td>
+            <td>HTML</td>
+        </tr>
+
+        <tr>
+            <th>Thursday</th>
+            <td>English</td>
+            <td>Programing</td>
+            <td>Mathematics</td>
+        </tr>
+
+        <tr>
+            <th>Friday</th>
+            <td>HTML</td>
+            <td>English</td>
+            <td>Programing</td>
+        </tr>
+    </table>
+
+</body>
+</html>
